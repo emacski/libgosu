@@ -1,5 +1,8 @@
-libgosu
--------
+# DEPRECATED
+
+This project is **obsolete** and no longer maintained.
+
+## libgosu
 
 Same functional logic as https://github.com/tianon/gosu but restructured to make it easier to utilize the functionality in other go projects
 
